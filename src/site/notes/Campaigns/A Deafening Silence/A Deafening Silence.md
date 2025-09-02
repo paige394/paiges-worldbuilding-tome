@@ -7,6 +7,6 @@ Make this a nice homepage for the Deafening Silence folks! Quicklinks to the lat
 
 
 Most Recent Session:
-- [[Campaigns/A Deafening Silence/Session Notes/Session 52\|Session 52]]: June 22, 2025
+- [[Campaigns/A Deafening Silence/Session Notes/Session 56\|Session 56]]: August 31, 2025
 
 { .block-language-dataview}
