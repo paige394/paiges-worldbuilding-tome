@@ -26,4 +26,5 @@ At some point, she received a letter from [[Campaigns/Curse of Strahd/02 NPCs/St
 
 While it is unknown exactly how the manor fell into its haunted state, it seems that the last actions of any living Durst family members happened long ago. The Manor lived on, however, luring adventurers into the eery mists of [[Campaigns/Curse of Strahd/03 Locations/Barovia\|Barovia]].
 
+---
 GM-only info! Keep playing to reveal :)

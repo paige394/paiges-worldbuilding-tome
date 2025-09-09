@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/curse-of-strahd/curse-of-strahd/","title":"Campaign Home | Curse of Strahd"}
+{"dg-publish":true,"permalink":"/campaigns/curse-of-strahd/curse-of-strahd/","title":"Campaign Home | Curse of Strahd","pinned":true}
 ---
 
 

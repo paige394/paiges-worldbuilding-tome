@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-deafening-silence/a-deafening-silence/"}
+{"dg-publish":true,"permalink":"/campaigns/a-deafening-silence/a-deafening-silence/","title":"Campaign Home | A Deafening Silence","pinned":true}
 ---
 
 
