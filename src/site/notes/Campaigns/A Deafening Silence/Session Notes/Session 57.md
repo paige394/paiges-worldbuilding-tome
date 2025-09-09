@@ -47,4 +47,4 @@ Sky finally finishes attuning. They get full plate armor, and once a day can cas
 
 Teras and Genia look outside for anywhere else Odron may have stashed his last journal. We don't find the journals, but do find 13gp, which Teras splits evenly among the party.
 
-We head to the academy. By the end of the day, we make it out of the forest. We can see the Academy in the distance. /pu
+We head to the academy. By the end of the day, we make it out of the forest. We can see the Academy in the distance. 
