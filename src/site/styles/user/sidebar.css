@@ -1,0 +1,36 @@
+/* -------------------------------
+   Digital Garden: Sidebar tweaks
+---------------------------------*/
+
+/* Shrink the note icons without changing them */
+body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon]::before,
+body.filetree-note-icon .filename[data-note-icon]::before,
+body.links-note-icon .internal-link[data-note-icon]::before,
+body.backlinks-note-icon .backlink[data-note-icon]::before {
+    width: 0.6em;
+    height: 0.6em;
+    margin-right: 4px;
+    background-size: contain;
+}
+
+/* Make the arrow for closed folders smaller */
+.filetree-sidebar .inner-folder.collapsed > .foldername-wrapper::after {
+    font-size: 0.6rem;
+    margin-left: 4px;
+}
+
+/* Keep arrow rotation for expanded folders */
+.filetree-sidebar .inner-folder:not(.collapsed) > .foldername-wrapper::after {
+    transform: rotate(90deg);
+}
+
+/* Optional: adjust folder indentation and line connecting notes */
+.filetree-sidebar .inner-folder .folder-contents {
+    margin-left: 12px;  
+    border-left: 1px solid var(--text-accent);
+}
+
+/* Optional: adjust spacing for filenames in folder */
+.filetree-sidebar .notelink {
+    padding-left: 20px;
+}
