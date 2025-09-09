@@ -5,4 +5,6 @@
 
 Make this a nice homepage for the CoS folks! Quicklinks to the latest session notes, note directory, maybe a quest tracker?
 
-GM-exclusive info! Keep playing to reveal :)
+::: hidden
+This content is hidden from public view.
+:::

@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/campaigns/a-deafening-silence/session-notes/session-57/"}
 ---
 
+
 ### Bulleted Notes
 
 ### Edited Long-Form Notes 
