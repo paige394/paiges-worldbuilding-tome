@@ -1,0 +1,103 @@
+/* -------------------------------
+   Digital Garden: TTRPG-Style Sidebar
+   Published Site Only
+---------------------------------*/
+
+/* Sidebar container adjustments */
+.filetree-sidebar {
+  background-color: var(--background-secondary);
+  padding: 10px;
+  width: 260px;
+  overflow-y: auto;
+  border-radius: 8px;
+  font-family: var(--font-default);
+}
+
+/* Folder wrapper */
+.filetree-sidebar .inner-folder {
+  position: relative;
+  padding-left: 20px;
+  margin-bottom: 4px;
+  transition: all 0.25s ease;
+}
+
+/* Folder icon + text */
+.filetree-sidebar .foldername-wrapper {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  font-weight: 500;
+  line-height: 1.4;
+}
+
+/* Folder icon */
+.filetree-sidebar .foldername-wrapper::before {
+  content: "\1F4C2"; /* folder emoji */
+  margin-right: 6px;
+  font-size: 1rem;
+  flex-shrink: 0;
+}
+
+/* Arrow for collapsed folders */
+.filetree-sidebar .inner-folder.collapsed > .foldername-wrapper::after {
+  content: "\25B6"; /* right-pointing triangle */
+  font-size: 0.7rem;
+  margin-left: 6px;
+  transition: transform 0.25s ease;
+}
+
+/* Arrow rotation when expanded */
+.filetree-sidebar .inner-folder:not(.collapsed) > .foldername-wrapper::after {
+  transform: rotate(90deg);
+}
+
+/* Notes inside folders */
+.filetree-sidebar .inner-folder .folder-contents {
+  margin-left: 15px;
+  padding-left: 10px;
+  border-left: 1px solid var(--text-accent);
+  transition: all 0.25s ease;
+  display: block;
+}
+
+/* Individual note styling */
+.filetree-sidebar .filename {
+  display: flex;
+  align-items: center;
+  margin: 2px 0;
+  font-weight: 400;
+}
+
+/* Note icon */
+.filetree-sidebar .filename::before {
+  content: "\1F4D1"; /* page icon emoji */
+  margin-right: 6px;
+  font-size: 0.9rem;
+  flex-shrink: 0;
+}
+
+/* Smooth collapse/expand */
+.filetree-sidebar .inner-folder.collapsed > .folder-contents {
+  max-height: 0;
+  overflow: hidden;
+  opacity: 0;
+  margin: 0;
+  padding: 0;
+}
+
+/* Visible when expanded */
+.filetree-sidebar .inner-folder:not(.collapsed) > .folder-contents {
+  max-height: 2000px; /* large enough to fit contents */
+  opacity: 1;
+}
+
+/* Hover effects */
+.filetree-sidebar .foldername-wrapper:hover,
+.filetree-sidebar .filename:hover {
+  color: var(--text-accent);
+}
+
+/* Optional: remove extra note icons from Digital Garden internal icons */
+body.filetree-note-icon .filename[data-note-icon]::before {
+  content: none;
+}
