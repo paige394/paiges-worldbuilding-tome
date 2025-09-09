@@ -3,6 +3,7 @@
 ---
 
 
-Make this a nice homepage for the CoS folks! Quicklinks to the latest session notes, note directory, maybe a quest tracker?
+This is the homepage for the Curse of Strahd campaign! Currently (and always) accepting feedback on what kinds of things you guys would like to see here.
 
-GM-only info! Keep playing to reveal :)
+## Recent Events
+The players cleansed the [[Campaigns/Curse of Strahd/03 Locations/Durst Estates\|Durst Estates]] and escaped alive, and were able to lay [[Campaigns/Curse of Strahd/02 NPCs/Rosavalda and Thornboldt Durst\|Rosavalda and Thornboldt Durst]] to rest.
