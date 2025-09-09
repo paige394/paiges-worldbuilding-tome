@@ -11,7 +11,4 @@
 ## Abilities / Stats
 <!-- Class, race, skills, feats, special abilities -->
 
-::: hidden
-<!-- DM-only notes: motivations, secret history, relationships -->
-## DM-Only
-:::
+GM-only info! Keep playing to reveal :)

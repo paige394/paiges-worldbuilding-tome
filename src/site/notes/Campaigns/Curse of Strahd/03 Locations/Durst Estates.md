@@ -26,22 +26,4 @@ At some point, she received a letter from [[Campaigns/Curse of Strahd/02 NPCs/St
 
 While it is unknown exactly how the manor fell into its haunted state, it seems that the last actions of any living Durst family members happened long ago. The Manor lived on, however, luring adventurers into the eery mists of [[Campaigns/Curse of Strahd/03 Locations/Barovia\|Barovia]].
 
-::: hidden
-<!-- DM-only content, redacted from published digital garden -->
-## GM-Only Info
-By the time of these events, word of Strahd’s transformation and Barovia’s descent into isolation had spread through the valley. Elisabeth Durst, fascinated by the rumors of the lord of Castle Ravenloft, became obsessed with Strahd and viewed him as a figure of great power and dark majesty.
-
-Her marriage to Gustav Durst was already strained. Rumors of Gustav’s affair with the family’s nursemaid, Klara, swirled among the household staff and townsfolk. Elisabeth denied these rumors publicly, but could not ignore the truth as Klara’s pregnancy became more obvious. Her jealousy and rage grew, stoked further when she discovered a shard of amber in a shipment of grain from the family’s mill. The shard seemed to call to her, and in her obsession, she began to hear its voice. The shard was a fragment of an ancient vestige of evil, which slowly twisted Elisabeth’s mind.
-
-When Klara gave birth to Gustav’s illegitimate son, Walter, Elisabeth snapped. She murdered Gustav in their bed, then bound Klara and subjected her to days of torture. She killed Walter and, through a ritual guided by the shard, bound his spirit to his corpse, creating an undead creature of hunger and rage. Elisabeth fed Klara’s mutilated body to Walter piece by piece, savoring her vengeance and descent into darkness.
-
-With the shard’s power, Elisabeth gathered a small group of like-minded followers and formed a cult. She led them in worship of Strahd, whom they believed to be an emissary of the dark powers. Their rituals included gruesome sacrifices, with the bodies of their victims used to feed Walter.
-
-Rose and Thorn, Elisabeth’s children, became increasingly distressed by the noises and horrors coming from beneath the house. When their pleas became too much for Elisabeth to bear, she locked them in the attic and left them to starve to death.
-
-On the first anniversary of Barovia’s entrapment within the mists, Elisabeth attempted to present herself and her cult to Strahd at Castle Ravenloft, hoping to pledge her loyalty and gain power and immortality in return. Strahd, through his chamberlain Rahadin, dismissed her ambitions with a cold rejection. This humiliation caused Elisabeth’s devotion to curdle into resentment and madness.
-
-As the cult’s numbers dwindled, Elisabeth became increasingly desperate. When she learned that adventurers had been drawn into Barovia by the Mists, she saw an opportunity to regain Strahd’s attention. She lured the adventurers to her home and sacrificed them to prove her devotion to him. Strahd, however, had intended these adventurers as his own entertainment and prey. Enraged by Elisabeth’s interference, he personally descended upon the house, slaughtering her and the remaining cultists.
-
-Though their bodies died, Elisabeth’s final, desperate wish bound the spirits of herself, her family, and her cult to the house. From that day forward, the manor became a trap for outsiders, luring adventurers into Barovia and consuming them in an endless cycle of horror, hoping to one day present Strahd with a sacrifice worthy of his notice.
-:::
+GM-only info! Keep playing to reveal :)
