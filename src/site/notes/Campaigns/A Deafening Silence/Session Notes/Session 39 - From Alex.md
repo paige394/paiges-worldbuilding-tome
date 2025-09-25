@@ -16,7 +16,7 @@ Talbot finds the body of Gregor the watch detective with a throat slashed, staff
 
 They’ve taken the Falante cloak, which is from a group islands off the coast of cape lamar, quite possibly taken by the cultists, probably the cape of kaizen
 
-Nothing else seems stolen, we move towards Opheus’s office. Opheus is dead 15 minutes ago. He experimented on birds that could understand the melody of the music box and they died readily
+Nothing else seems stolen, we move towards Opheus’s office. Opheus is dead 15 minutes ago. He experimented on birds that could understand the melody of the music box and they died readily.
 
 Falante cloak has potent transmutation magic from the islands, discovered in pristine condition (HIGHLY MAGICAL)
 

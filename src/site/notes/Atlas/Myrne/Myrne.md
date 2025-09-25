@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/myrne/myrne/","tags":["location/country"]}
+{"dg-publish":true,"permalink":"/atlas/myrne/myrne/","pinned":true,"tags":["location/country"]}
 ---
 
 ## Government 

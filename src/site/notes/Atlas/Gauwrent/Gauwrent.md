@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/gauwrent/gauwrent/","tags":["location/country"]}
+{"dg-publish":true,"permalink":"/atlas/gauwrent/gauwrent/","pinned":true,"tags":["location/country"]}
 ---
 
 ## Government 

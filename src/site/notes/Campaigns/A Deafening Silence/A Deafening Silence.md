@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-deafening-silence/a-deafening-silence/","title":"Campaign Home | A Deafening Silence","pinned":true}
+{"dg-publish":true,"permalink":"/campaigns/a-deafening-silence/a-deafening-silence/","title":"ADS Campaign Home","pinned":true}
 ---
 
 
@@ -7,6 +7,6 @@ Make this a nice homepage for the Deafening Silence folks! Quicklinks to the lat
 
 
 Most Recent Session:
-- [[Campaigns/A Deafening Silence/Session Notes/Session 57\|Session 57]]: September 07, 2025
+- [[Campaigns/A Deafening Silence/Session Notes/Session 59\|Session 59]]: September 21, 2025
 
 { .block-language-dataview}
